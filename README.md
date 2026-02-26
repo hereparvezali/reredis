@@ -1,4 +1,5 @@
 # ReRedis - A Redis Clone in Rust
+AI generated readme
 
 A lightweight Redis-compatible server implemented in Rust using Tokio for async I/O. This project implements the RESP (Redis Serialization Protocol) and supports many common Redis commands.
 
